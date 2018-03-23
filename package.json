@@ -1,0 +1,15 @@
+{
+  "name": "flax-friendo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:plougsgaard/flax-friendo.git",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/index.js",
+    "watch": "nodemon --exec yarn start"
+  },
+  "devDependencies": {
+    "nodemon": "1.17.2"
+  }
+}
