@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "nodemon": "1.17.2"
+  },
+  "dependencies": {
+    "node-fetch": "2.1.1"
   }
 }
